@@ -1,0 +1,3 @@
+[submodule "G-Karate-App"]
+	path = G-Karate-App
+	url = https://github.com/bjornlain/G-Karate-App
